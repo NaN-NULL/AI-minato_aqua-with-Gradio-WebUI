@@ -7,3 +7,10 @@
 4. 下载用于释放内存的空白音频文件放在raw目录下[free_cache.wav](https://huggingface.co/spaces/DoNotSelect/AI-minato_aqua/resolve/main/raw/free_cache.wav)
 5. 安装依赖
 6. 运行app.py
+## 基于
++ [so-vits-svc](https://github.com/innnky/so-vits-svc)
++ [vits](https://github.com/jaywalnut310/vits)
++ [hubert](https://github.com/bshall/hubert)
++ [NSF HiFiGAN](https://github.com/openvpi/DiffSinger/tree/refactor/modules/nsf_hifigan)
++ [Gradio](https://gradio.app/)
++ [MinatoAqua](https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg)
