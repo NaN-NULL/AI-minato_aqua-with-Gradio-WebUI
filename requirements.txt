@@ -1,0 +1,17 @@
+numpy
+playsound
+pydub
+pyworld
+requests
+scipy
+sounddevice
+SoundFile
+starlette
+torch
+torchaudio
+tqdm
+scikit-maad
+praat-parselmouth
+librosa
+torchvision
+gradio
